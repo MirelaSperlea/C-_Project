@@ -1,0 +1,65 @@
+<pacienti>
+	<pacient nume="john">
+		<varsta>35</varsta>
+		<antecedente>fara_antecedente</antecedente>
+		<specialitate>neurologie</specialitate>
+		<nume_medic>dr_white</nume_medic>
+		<durata_programare>45</durata_programare>
+		<data_programarii>12/12/2023</data_programarii>
+		<ora_programarii>13:00</ora_programarii>
+	</pacient>
+	<pacient nume="mary">
+		<varsta>45</varsta>
+		<antecedente>hipertensiune</antecedente>
+		<specialitate>cardiologie</specialitate>
+		<nume_medic>dr_smith</nume_medic>
+		<durata_programare>29</durata_programare>
+		<data_programarii>15/12/2023</data_programarii>
+		<ora_programarii>14:15</ora_programarii>
+	</pacient>
+	<pacient nume="alex">
+		<varsta>28</varsta>
+		<antecedente>diabet</antecedente>
+		<specialitate>diabetologie</specialitate>
+		<nume_medic>dr_dark</nume_medic>
+		<durata_programare>55</durata_programare>
+		<data_programarii>14/12/2023</data_programarii>
+		<ora_programarii>11:20</ora_programarii>
+	</pacient>
+	<pacient nume="alice">
+		<varsta>50</varsta>
+		<antecedente>fara_antecedente</antecedente>
+		<specialitate>cardiologie</specialitate>
+		<nume_medic>dr_smith</nume_medic>
+		<durata_programare>29</durata_programare>
+		<data_programarii>12/11/2023</data_programarii>
+		<ora_programarii>14:10</ora_programarii>
+	</pacient>
+	<pacient nume="bob">
+		<varsta>32</varsta>
+		<antecedente>hernie</antecedente>
+		<specialitate>neurologie</specialitate>
+		<nume_medic>dr_white</nume_medic>
+		<durata_programare>45</durata_programare>
+		<data_programarii>15/11/2023</data_programarii>
+		<ora_programarii>14:50</ora_programarii>
+	</pacient>
+	<pacient nume="anca">
+		<varsta>22</varsta>
+		<antecedente>hipotensiune</antecedente>
+		<specialitate>cardiologie</specialitate>
+		<nume_medic>dr_smith</nume_medic>
+		<durata_programare>29</durata_programare>
+		<data_programarii>17/12/2023</data_programarii>
+		<ora_programarii>12:15</ora_programarii>
+	</pacient>
+	<pacient nume="bia">
+		<varsta>32</varsta>
+		<antecedente>diabet</antecedente>
+		<specialitate>diabetologie</specialitate>
+		<nume_medic>dr_dark</nume_medic>
+		<durata_programare>55</durata_programare>
+		<data_programarii>19/12/2023</data_programarii>
+		<ora_programarii>15:40</ora_programarii>
+	</pacient>
+</pacienti>
